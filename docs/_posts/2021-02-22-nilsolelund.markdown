@@ -2,12 +2,13 @@
 layout: default
 title:  "Tribute to Nils-Ole Lund: Greatest Collage Artist; Architecture, Howard Roark, and Greatness."
 date:   2021-02-21 15:40:51 -0600
-categories: Reference
+categories: Literature
 ---
  
 <!-- wp:paragraph {"fontSize":"11px"} -->
 <p class="wp-block-paragraph" style="font-size:25px">Tribute to Nils-Ole Lund: Greatest Collage Artist; Architecture, Howard Roark, and Greatness.
-</p>
+</p><br>
+<br>
 <p class="wp-block-paragraph" style="font-size:11px">By Avey Paladin.
 </p>
 <p class="wp-block-paragraph" style="font-size:11px">
@@ -16,7 +17,7 @@ categories: Reference
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"huge"} -->
-<p class="has-huge-font-size">Trouble in Heaven, Presentation Collage 1991:</p>
+<p class="has-large-font-size">Trouble in Heaven, Presentation Collage 1991:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
@@ -28,7 +29,7 @@ categories: Reference
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"huge"} -->
-<p class="has-huge-font-size">The Tower of Babel, 1970:</p>
+<p class="has-large-font-size">The Tower of Babel, 1970:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
@@ -36,15 +37,15 @@ categories: Reference
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"huge"} -->
-<p class="has-huge-font-size">Trafiknettet, 1979 (Revised 1993):</p>
+<p class="has-large-font-size">Trafiknettet, 1979 (Revised 1993):</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="http://socks-studio.com/img/blog/nils-ole-lund-08-Trafiknettet-1979-revised-1993.jpg" alt=""/></figure>
+<figure class="wp-block-image"><img src="http://socks-studio.com/img/blog/nils-ole-lund-08-Trafiknettet-1979-revised-1993-800x564.jpg alt=""/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"huge"} -->
-<p class="has-huge-font-size">The Future of Architecture, 1979:</p>
+<p class="has-large-font-size">The Future of Architecture, 1979:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
@@ -52,7 +53,7 @@ categories: Reference
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"huge"} -->
-<p class="has-huge-font-size">The Fashion of Architecture, 1986:</p>
+<p class="has-large-font-size">The Fashion of Architecture, 1986:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
@@ -60,7 +61,7 @@ categories: Reference
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"huge"} -->
-<p class="has-huge-font-size">Venturi Visits Las Vegas, 1976:</p>
+<p class="has-large-font-size">Venturi Visits Las Vegas, 1976:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
@@ -68,7 +69,7 @@ categories: Reference
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"huge"} -->
-<p class="has-huge-font-size">Architectural Outlook, 1987:</p>
+<p class="has-large-font-size">Architectural Outlook, 1987:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
@@ -76,7 +77,7 @@ categories: Reference
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"huge"} -->
-<p class="has-huge-font-size">Collage City, 1980:</p>
+<p class="has-large-font-size">Collage City, 1980:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
@@ -84,7 +85,7 @@ categories: Reference
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"huge"} -->
-<p class="has-huge-font-size">1990:</p>
+<p class="has-large-font-size">1990:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
@@ -92,7 +93,7 @@ categories: Reference
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"huge"} -->
-<p class="has-huge-font-size">1976:</p>
+<p class="has-large-font-size">1976:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
@@ -100,7 +101,7 @@ categories: Reference
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"huge"} -->
-<p class="has-huge-font-size">An Architectural Hat, 1979:</p>
+<p class="has-large-font-size">An Architectural Hat, 1979:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
@@ -108,7 +109,7 @@ categories: Reference
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"huge"} -->
-<p class="has-huge-font-size">1992:</p>
+<p class="has-large-font-size">1992:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
@@ -116,7 +117,7 @@ categories: Reference
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"huge"} -->
-<p class="has-huge-font-size">Rebirth, 1991:</p>
+<p class="has-large-font-size">Rebirth, 1991:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
@@ -124,7 +125,7 @@ categories: Reference
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"huge"} -->
-<p class="has-huge-font-size">The House in the Cliff,&nbsp;</p>
+<p class="has-large-font-size">The House in the Cliff,&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
