@@ -14,8 +14,8 @@ categories: Reference
 <link rel='dns-prefetch' href='//s0.wp.com' />
 <link rel='dns-prefetch' href='//wordpress.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel="alternate" type="application/rss+xml" title="Ubermensch Literature &raquo; Feed" href="http://127.0.0.1:4000/literature/" />
-<link rel="alternate" type="application/rss+xml" title="Ubermensch Literature &raquo; Comments Feed" href="http://127.0.0.1:4000/literature/" />
+<link rel="alternate" type="application/rss+xml" title="Ubermensch Literature &raquo; Feed" href="https://curealiens.github.io/" />
+<link rel="alternate" type="application/rss+xml" title="Ubermensch Literature &raquo; Comments Feed" href="https://curealiens.github.io/" />
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		function addLoadEvent(func) {
