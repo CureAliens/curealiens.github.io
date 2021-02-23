@@ -2,10 +2,12 @@
 layout: default
 title:  "Tribute to Nils-Ole Lund: Greatest Collage Artist; Architecture, Howard Roark, and Greatness."
 date:   2021-02-21 15:40:51 -0600
-categories: jekyll journal and papers
+categories: Reference
 ---
  
 <!-- wp:paragraph {"fontSize":"11px"} -->
+<p class="wp-block-paragraph" style="font-size:25px">Tribute to Nils-Ole Lund: Greatest Collage Artist; Architecture, Howard Roark, and Greatness.
+</p>
 <p class="wp-block-paragraph" style="font-size:11px">By Avey Paladin.
 </p>
 <p class="wp-block-paragraph" style="font-size:11px">
