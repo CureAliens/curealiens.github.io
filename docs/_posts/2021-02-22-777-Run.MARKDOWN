@@ -7,13 +7,6 @@ categories: Reference
 
 <html lang="en">
 
-	<section id="primary" class="content-area">
-		<main id="main" class="site-main">
-
-			
-<article id="post-5" class="post-5 page type-page status-publish hentry entry">
-
-	<header class="entry-header responsive-max-width">
 		
 
 
