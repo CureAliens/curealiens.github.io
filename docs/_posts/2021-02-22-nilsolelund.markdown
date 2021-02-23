@@ -33,7 +33,7 @@ categories: Literature
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="http://socks-studio.com/img/blog/nils-ole-lund-02-The-Tower-of-Babel-After-1970.jpg" alt=""/></figure>
+<figure class="wp-block-image"><img src="https://biblioklept.files.wordpress.com/2015/11/nils-ole-lund-02-the-tower-of-babel-after-1970.jpg?w=739" alt=""/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"huge"} -->
