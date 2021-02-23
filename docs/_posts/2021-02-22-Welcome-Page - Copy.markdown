@@ -1,4 +1,9 @@
-
+---
+layout: default
+title:  "Welcome Page"
+date:   2021-02-21 15:40:51 -0600
+categories: Journal
+---
 
 <html lang="en">
 
