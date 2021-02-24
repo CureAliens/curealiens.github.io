@@ -1,20 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
-
-  {%- include head.html -%}
-
-  <body>
-
-    {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    {%- include footer.html -%}
-
-  </body>
-
+<html>
+    {% include head.html %}
+    <body class="is-offset {% unless site.typekit_kit_id %}wf-inactive{% endunless %}">
+        {% include header.html %}
+        <section role="main">
+            {{ content }}
+        </section>
+        {% include footer.html %}
+        <script type="text/javascript" src="{{ site.baseurl }}/js/galileo.js"></script>
+    </body>
 </html>
