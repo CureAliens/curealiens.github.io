@@ -6,6 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   “I say unto you: one must still have chaos in oneself to be able to give birth to a dancing star. I say unto you: you still have chaos in yourselves.
   ― Friedrich Nietzsche, Thus Spoke Zarathustra  
 show_excerpts: true 
+
+permalink: date
  # the subpath of your site, e.g. /blog
 url: "https://curealiens.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: misophosia
